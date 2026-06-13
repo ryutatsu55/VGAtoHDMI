@@ -1,0 +1,26 @@
+# Quartus compilation database (regenerated on every compile)
+db/
+incremental_db/
+
+# Temporary files
+greybox_tmp/
+output_files/greybox_tmp/
+
+# Simulation output
+simulation/
+
+# Quartus backup files
+*.bak
+
+# Workspace / window layout
+*.qws
+
+# IP regeneration reports
+*.ipregen.rpt
+pll_25.xml
+
+# Auto-generated pin defaults
+*_assignment_defaults.qdf
+
+# Project instructions (local only)
+CLAUDE.md
